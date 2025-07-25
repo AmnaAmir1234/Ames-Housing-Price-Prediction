@@ -114,7 +114,7 @@ pip install shap lime eli5 pdpbox
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ames-housing-price-prediction-ml-pipeline.git
+git clone https://github.com/AmnaAmir1234/ames-housing-price-prediction-ml-pipeline.git
 cd ames-housing-price-prediction-ml-pipeline
 ```
 
